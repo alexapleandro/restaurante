@@ -27,13 +27,13 @@
             <div class="collapse navbar-collapse navbarCollapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="active">
-                        <a href="/exemplo">Home</a>
+                        <a href="/restaurante">Home</a>
                     </li>
                     <li id="menu-sobre">
-                        <a href="/exemplo/sobre">Sobre</a>
+                        <a href="/restaurante/sobre">Sobre</a>
                     </li>
                     <li id="menu-contato">
-                        <a href="/exemplo/contato">Contato</a>
+                        <a href="/restaurante/contato">Contato</a>
                     </li>                   
                 </ul>
             </div>
